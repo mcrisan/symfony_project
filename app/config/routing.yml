@@ -1,0 +1,4 @@
+website_site:
+    resource: "@WebsiteSiteBundle/Resources/config/routing.yml"
+    prefix:   /
+
